@@ -1,5 +1,3 @@
-<img src="https://github.com/Quentin-Willems.png" width="120" align="right" />
-
 # 👋 Hi, I'm Quentin Willems
 
 **10+ years as a data analytics professional across regulated industries (Banking, Insurance and Pharma).**  
